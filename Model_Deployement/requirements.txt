@@ -8,5 +8,3 @@ tensorflow==2.12.0rc1
 scikit-learn==1.2.2
 keras==2.12.0rc1
 plotly==5.13.1
-tensorflow-estimator==2.12.0rc0
-tensorflow-intel==2.12.0rc1
